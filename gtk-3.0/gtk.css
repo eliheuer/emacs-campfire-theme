@@ -1,0 +1,11 @@
+#pane #menubar
+{
+    background-color: #222222;
+    foreground-color: #ff5500;
+    border: none;
+    padding: 0px 0px;
+    margin: 0px;
+    color: #ff5500;
+    font-family: "Input Mono Compressed Medium", serif;
+    font-size: 14pt;
+}
