@@ -19,4 +19,4 @@ Download `campfire-theme.el` to the directory `~/.emacs.d/themes/`. Add this to 
 
 Now you can load the theme with the interactive function `load-theme` like this:
 
-`M-x load-theme RET zenburn`
+`M-x load-theme RET campfire
