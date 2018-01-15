@@ -1,5 +1,8 @@
-# emacs-campfire-theme
+# Emacs Campfire Theme
 🔥 A dark theme for Emacs in warm colors.
+
+![Screenshot](img/campfire-screenshot.png)
+
 
 ## About
 
